@@ -1,4 +1,4 @@
-# 
+# Intelligent SceneUnderstand installeur. Téléchargez et installez avec système de plugins et guide étape par étape — rapide, sécurisé et facile à utiliser.
 
 
 
